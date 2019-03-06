@@ -1,0 +1,1340 @@
+@media screen and (max-width:1210px) {
+    .main-visual-message {
+        width: 100%;
+        position: absolute;
+        z-index: 1;
+        top: 25%;
+        text-align: center;
+    }
+    .page-about{
+        margin-top: 0;
+    }
+}
+@media screen and (max-width:1162px){
+    .main-content {
+        margin-top: 60px;
+    }
+    .page-business{
+        margin-top: 0;
+    }
+    .recruit-articles .list-tag{
+        width: 96%;
+    }
+    
+}
+@media screen and (max-width:1024px) {
+    .contact-info {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .contact-info .contact-phone .contact-phone-text a {
+        line-height: 1.2;
+        font-weight: 700;
+        font-size: 5.5vw;
+        color: #FFF;
+        text-decoration: none;
+    }
+
+    .contact-info .contact-phone .contact-phone-text p {
+        font-weight: 500;
+        font-size: 2vw;
+        margin-top: 1vw;
+        text-align: left;
+        color: #fff;
+    }
+    .contact-phone>.btn.btn-contact.btn-warning {
+        background: #FFF100;
+        border-radius: 50%;
+        padding: 0.6vw 1.4vw;
+        float: left;
+        font-size: 2.9vw;
+        margin-right: 10px;
+    }
+
+    .contact-phone {
+        width: 100%;
+        margin-top: 7vw;
+        text-align: center;
+    }
+    
+    .contact-email {
+        width: 100%;
+        text-align: center;
+        margin-top: 6vw;
+        margin-left: 0px;
+    }
+
+    .btn-email:hover {
+        background: #000;
+        color: #fff;
+    }
+
+    .btn-email-text {
+        font-weight: bold;
+        font-size: 3.5vw;
+        padding: 0 20px;
+    }
+    .contact-form-body .form-row .form-label label{
+        font-size: 1.1rem;
+    }
+    .item.item1 {
+        margin-right: 3vw;
+    }
+    .item.item2 {
+        margin-left: 3vw;
+    }
+
+    .about-business-list li .desc .txt-basic {
+        padding: 0 0 10px;
+    }
+}
+
+@media screen and (min-width:769px) and (max-width:1023px) {
+
+    /* Vision */
+    .person-image .pc-06 {
+        -ms-flex: 0 0 50%;
+        flex: 0 0 47%;
+        max-width: 47%;
+        margin: 0 1vw;
+    }
+
+    .person-image {
+        background: url(../images/yellow-trapezoid-pattern-left.png) no-repeat left bottom;
+        padding-bottom: 100px;
+        background-size: 102vw 43vw;
+    }
+
+    .person-image p {
+        line-height: 2;
+        margin-bottom: 15px;
+    }
+
+    /* End Vision */
+
+    /* Business */
+    .page-business {
+        padding: 15px 0 80px 0;
+    }
+
+    .about-business .section-heading h2 span {
+        font-size: 3.75vw;
+    }
+
+    .txt-basic {
+        text-align: center;
+        margin: 60px 0 0 0;
+        font-size: 12px;
+        font-size: 1.8vw;
+    }
+
+    /* End Business */
+
+    /* Interview */
+    .block-content .title .post {
+        font-size: 2vw;
+        margin-bottom: 1vw;
+    }
+
+    .block-content .title .name .name-en {
+        font-size: 2vw;
+    }
+
+    .block-content .title .name .name-jp {
+        font-size: 2.9vw;
+    }
+
+    .block-content .desc p {
+        padding-right: 15px;
+    }
+
+    /* End Interview */
+
+    /* Recruit */
+    .recruit-articles .list-tag {
+        justify-content: flex-start;
+    }
+
+    .recruit-articles .list-tag li {
+        border: 1px solid #bababa;
+        padding: 10px 25px;
+        margin-bottom: 10px;
+        margin-right: 2vw;
+    }
+
+    /* End Recruit */
+
+}
+
+@media screen and (max-width:768px) {
+    .main-content {
+        margin-top: 60px;
+    }
+    object {
+        margin-bottom: 10vw;
+        margin-top: 6vw;
+        transform: scale(2.5);
+    }
+
+    .main-visual-message {
+        top: 45.3333vw;
+    }
+
+    .message-top {
+        font-size: 5.7333vw;
+        margin: 30px 0 50px 0;
+    }
+
+    .main-visual-message>h1 {
+        font-size: 8.53333vw;
+        color: #fff;
+        font-family: Southpaw;
+        margin-bottom: 30px;
+    }
+
+    .small-message {
+        font-size: 4.8vw;
+    }
+
+    .scroll-down-btn span {
+        font-size: 3.2vw;
+        margin-top: 3vw;
+    }
+
+    .scroll-down-btn img {
+        margin-left: -2vw;
+        width: 3.46667vw;
+        position: absolute;
+        bottom: -7vw;
+        animation: down 1.5s infinite;
+    }
+
+    .block-01 {
+        background-image: url(../images/intro-index-block-01-sp.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 100%;
+        padding: 20px 0 50px 0;
+        color: #fff;
+    }
+
+    .block-02 {
+        background-image: url(../images/intro-index-block-02-sp.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 100%;
+        padding: 20px 0 50px 0;
+        color: #fff;
+    }
+
+    .block-03 {
+        background-image: url(../images/intro-index-block-03-sp.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 100%;
+        padding: 20px 0 50px 0;
+        color: #fff;
+    }
+
+    .block-04 {
+        background-image: url(../images/intro-index-block-04-sp.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 100%;
+        padding: 20px 0 50px 0;
+        color: #fff;
+    }
+
+    .intro-title h2 {
+        font-size: 4vw;
+    }
+
+    .intro-title p {
+        font-size: 10vw;
+    }
+
+    .contact-text-02 a {
+        color: #fff;
+        font-weight: bold;
+        font-size: 3rem;
+        text-decoration: none;
+    }
+
+    .blocks:nth-child(odd) .intro-title:after {
+        position: absolute;
+        z-index: 1;
+        content: '';
+        width: 45vw;
+        height: 7vw;
+        right: 0;
+        background: url(../images/ttl-pattern-right@2x.png);
+        background-size: 100% 100%;
+        display: inline-block;
+    }
+
+    .blocks:nth-child(even) .intro-title:after {
+        position: absolute;
+        z-index: 1;
+        content: '';
+        width: 45vw;
+        height: 7vw;
+        left: 0;
+        background: url(../images/ttl-pattern-right@2x.png);
+        background-size: 100% 100%;
+        display: inline-block;
+        transform: rotateY(-190deg);
+    }
+
+    .intro-blocks .blocks .intro-text {
+        font-size: 3vw;
+    }
+    .intro-blocks .blocks:nth-child(odd) .intro-text {
+        background:linear-gradient(to right, rgba(129, 135, 142, 0) 0%, rgba(0, 0, 0, 0.71) 100%);
+        padding: 6vw 0 4vw 0;
+        margin-top: 7vw;
+        font-weight: bold;
+    }
+    .intro-blocks .blocks:nth-child(even) .intro-text {
+        background:linear-gradient(to left, rgba(129, 135, 142, 0) 0%, rgba(0, 0, 0, 0.71) 100%);
+        padding: 6vw 0 4vw 0;
+        margin-top: 7vw;
+        font-weight: bold;
+    }
+    .intro-blocks .blocks:nth-child(even) {
+        text-align: left;
+        padding: 4vw 0;
+    }
+    .intro-blocks .blocks:nth-child(odd) {
+        text-align: right;
+        padding: 4vw 0;
+    }
+    
+    .intro-title {
+        position: relative;
+        padding-bottom: 30px;
+        padding-top: 8vw;
+    }
+    .btn-email {
+        text-decoration: none;
+        color: #000;
+        padding: 5vw 18vw;
+        background: #fff100;
+        border-radius: 50px;
+        position: relative;
+        display: inline-flex;
+        align-items: center;
+        z-index: 1;
+        overflow: hidden;
+        color: #000;
+        text-decoration: none;
+        cursor: pointer;
+    }
+
+    .btn-email:not(span) {
+        font-size: 3.7333vw;
+        font-weight: 600;
+    }
+
+    .btn-email span {
+        font-size: 4.4vw;
+        font-weight: 600;
+    }
+
+    .btn-more {
+        text-align: center;
+    }
+
+    .btn-more a {
+        padding: 4vw 25vw;
+        font-size: 3.73333vw;
+        margin-top: 7vw;
+        margin-bottom: 5vw;
+    }
+    .main-footer {
+        background: #FFF100;
+        padding: 13vw 0 8vw 0;
+    }
+    .logo {
+        text-align: left;
+        padding-left: 8.5vw;
+    }
+    .index-recruit-text h2 {
+        font-size: 5vw;
+    }
+
+    .index-recruit-text p {
+        font-size: 11vw;
+        color: #333;
+        padding: 5px 0;
+    }
+
+    .item img {
+        width: 100%;
+    }
+    .recruit-posts {
+        margin-top: 16vw;
+        padding: 0 0;
+    }
+    .item.item1,
+    .item.item2 {
+        margin-right: 0;
+        margin-left: 0;
+    }
+    .recruit-post-text {
+        margin: 4vw 0 0vw 0;
+    }
+    .recruit-posts .container .line {
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+        margin: 0 -15px;
+        padding: 0 4vw;
+    }
+    .index-recruit-text:after {
+        width: 36vw;
+        height: 5vw;
+    }
+    .recruit-post-text span{
+        font-size: 3.5vw;
+        padding: 1vw 3vw;
+        margin-left: 0;
+        margin-right: 2vw;
+        text-align: left;
+    }
+    .recruit-post-text h2 {
+        font-size: 4.6vw;
+        margin-bottom: 5vw;
+    }
+
+    .recruit-post-text p {
+        line-height: 2;
+        font-size: 3.7333vw;
+        margin-bottom: 10vw;
+        color: #000;
+    }
+
+    .index-recruit-block {
+        background-image: url(../images/index-recruit-bg-sp@2x.jpg);
+        background-size: cover;
+        padding: 15vw 0 16vw;
+    }
+
+    .vision-message-01 article h3 {
+        margin-bottom: 8vw;
+        margin-top: 2vw;
+        font-size: 6.4vw;
+    }
+
+    .vision-message-01 article p {
+        padding: 0;
+        font-size: 3.73333vw;
+    }
+
+    .contact {
+        background: url(../images/contact-block-bg-sp@2x.jpg) no-repeat;
+        background-size: cover;
+        padding: 15vw 0 9vw 0;
+    }
+	.contact-info{
+		padding-top:10vw;
+	}
+    .contact-text-01 h2 {
+        font-size: 5vw;
+    }
+
+    .contact-text-01 p {
+        font-size: 10vw;
+        margin-bottom: 2vw;
+    }
+
+    .contact-text-01 img {
+        max-width: 38vw;
+    }
+
+    .contact-info .contact-phone .contact-phone-text a {
+        line-height: 1.2;
+        font-weight: 700;
+        font-size: 10vw;
+        color: #FFF;
+        text-decoration: none;
+    }
+
+    .contact-info .contact-phone .contact-phone-text p {
+        font-size: 5vw;
+        text-align: left;
+    }
+
+    .contact-phone>.btn.btn-contact.btn-warning {
+        background: #FFF100;
+        border-radius: 50%;
+        padding: 2.8vw 3.5vw;
+        float: left;
+        font-size: 4.9vw;
+        margin-right: 10px;
+    }
+    
+    .logo img {
+        width: 76vw;
+        margin-bottom: 4vw;
+    }
+
+    .logo figcaption {
+        font-size: 2.9733vw;
+        padding-left: 1vw;
+    }
+    .main-footer .container .line {
+        padding: 0 0.1vw;
+    }
+    .sitemap {
+        justify-content: flex-start;
+        margin: 9vw 0vw 0;
+    }
+
+    .sitemap li {
+        margin-bottom: 5vw;
+    }
+
+    .sitemap li a {
+        font-size: 3.2vw;
+        padding: 0 2.73333vw;
+        line-height: 1;
+    }
+
+    .copyright {
+        font-size: 3.2333vw;
+        margin-bottom: 0vw;
+        margin-top: 5vw;
+    }
+
+    .index-intro-blocks .block>.container:last-child {
+        text-align: center;
+    }
+
+    .message-top {
+        font-size: 3.5vw;
+        margin: 9vw 0 18vw 0;
+    }
+    .interview-intro-block .block-title {
+        text-align: center;
+        margin-bottom: 9vw;
+    }
+    .vision-message-01 .img {
+        margin-top: 5vw;
+        margin-bottom: 2vw;
+    }
+    .article-02 {
+        margin-top: 7vw;
+    }
+    .txt-align1{
+        margin-top: 4vw;
+    }
+    .person-image {
+        background: url(../images/yellow-trapezoid-pattern-left.png) #fff no-repeat left bottom;
+        background-size: 80vw 53.33333vw;
+        padding-bottom: 13vw;
+    }
+
+    .person-image p {
+        margin-bottom: 8vw;
+        font-size: 3.73333vw;
+        margin-top: 20px;
+        line-height: 2;
+    }
+
+    .employee-interview {
+        padding: 0 0 16vw;
+    }
+    .employee-interview-01 figure {
+        margin-top: 0 !important;
+    }
+    section.employee-interview .container {
+        padding: 0;
+    }
+    .employee-interview .section-heading {
+        text-align: center;
+        margin: 8vw 0;
+    }
+
+    .employee-interview .section-heading h2:before {
+        position: absolute;
+        content: '';
+        width: 70px;
+        height: 1px;
+        background: #000;
+        left: -56px;
+        top: 50%;
+        -webkit-transform: translateY(-50%);
+        -ms-transform: translateY(-50%);
+        transform: translateY(-50%);
+    }
+
+    .employee-interview .section-heading h2 span {
+        font-size: 4.8vw;
+        padding: 1.933vw 4vw;
+    }
+
+    /* About */
+    .page-about {
+        background: url(../images/head-bnr-about-sp@2x.jpg) no-repeat center center;
+        background-size: cover;
+        width: 100%;
+        padding: 1vw 0 14vw 0;
+        margin-top: 60px;
+    }
+
+    .page-about .section-tt1 h2 {
+        font-size: 4vw;
+    }
+
+    .page-about .section-tt1 p {
+        font-size: 10vw;
+    }
+    .about-business .section-heading h2 span {
+        padding: 2.5vw 5vw;
+        font-weight: 500;
+        color: #333;
+        font-size: 5vw;
+    }
+    .page-about .section-tt1:after {
+        width: 36vw;
+        height: 5vw;
+        margin-top: 2vw;
+    }
+
+    .company-profiles .section-heading h2 span,
+    .company-chart .section-heading h2 span,
+    .company-map .section-heading h2 span,
+    .company-relationship .section-heading h2 span,
+    .construction-result .section-heading h2 span {
+        padding: 2.5vw 5.3vw;
+    }
+    .company-profiles-block {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+    section.company-profiles .container {
+        padding: 0;
+    }
+    .company-profiles-block dl {
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        font-weight: 500;
+        font-size: 3.233vw;
+    }
+
+    .company-profiles-block dl dt {
+        width: 30%;
+        padding: 9.9333vw 3vw;
+        border-top: 1px solid #bababa;
+        padding-left: 5vw;
+    }
+
+    .company-profiles-block dl dd {
+        width: 70%;
+        padding: 8.333vw 1vw;
+        border-top: 1px solid #bababa;
+        
+    }
+
+    .company-profiles {
+        background: url(../images/yellow-stripped-pattern.png) no-repeat right bottom;
+        background-size: 64vw 60vw;
+    }
+
+    .company-map {
+        padding: 13.3333vw 0;
+        background-size: 21vw 20vw;
+        margin: 0px 0;
+    }
+
+    .construction-result {
+        background: url(../images/yellow-trapezoid-pattern.png) no-repeat #fff right bottom;
+        padding-bottom: 5vw;
+        background-size: 80vw 59vw;
+    }
+
+    .construction-result-list {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+
+    .col {
+        width: 100%;
+    }
+    .construction-result-list ul {
+        margin-bottom: 11vw;
+    }
+    .construction-result-list ul li:first-child {
+        margin: 4vw 0;
+        border-bottom: 1px solid #bababa;
+        padding: 4vw 6vw;
+    }
+    .construction-result-list ul li {
+        padding: 0 6vw;
+        font-weight: 500;
+        font-size: 3.2vw;
+    }
+
+    .company-chart {
+        background: #fafafa;
+        padding: 1vw 0 6vw 0;
+    }
+
+    .company-profiles .section-heading,
+    .company-chart .section-heading,
+    .company-map .section-heading,
+    .company-relationship .section-heading {
+        text-align: center;
+        margin: 7vw 0 7.9333vw 0;
+    }
+
+    .company-profiles .section-heading h2:before,
+    .company-chart .section-heading h2:before .company-map .section-heading h2:before,
+    .company-relationship .section-heading h2:before,
+    .construction-result .section-heading h2:before {
+        position: absolute;
+        content: '';
+        width: 70px;
+        height: 1px;
+        background: #000;
+        left: -56px;
+        top: 50%;
+        -webkit-transform: translateY(-50%);
+        -ms-transform: translateY(-50%);
+        transform: translateY(-50%);
+    }
+
+    .company-profiles .section-heading h2 span,
+    .company-chart .section-heading h2 span,
+    .company-map .section-heading h2 span,
+    .company-relationship .section-heading h2 span,
+    .construction-result .section-heading h2 span {
+        font-size: 4.73333vw;
+        font-weight: 600;
+    }
+    section.company-map .container {
+        padding: 0;
+    }
+    .section-heading {
+        text-align: center;
+        /* margin: 20px 0 25px 0; */
+        margin: 0;
+    }
+
+    .section-heading h2 {
+        padding-left: 21vw;
+    }
+
+    .section-heading h2:before {
+        position: absolute;
+        content: '';
+        width: 17vw;
+        height: 1px;
+        background: #000;
+        left: 7vw;
+        top: 50%;
+        -webkit-transform: translateY(-50%);
+        -ms-transform: translateY(-50%);
+        transform: translateY(-50%);
+    }
+
+    .company-profiles .txt-basic {
+        font-size: 3.7333vw;
+        margin-bottom: 18vw;
+        margin-top: 7.93333vw;
+    }
+    .company-relationship .container {
+        width: 100%;
+        padding: 0 5vw;
+        margin: 0 auto;
+    }
+    .company-relationship table {
+        font-size: 3.73333vw;
+    }
+    .company-relationship table th{
+        padding: 4vw 0vw;
+        font-size: 3.5vw;
+    }
+    .company-relationship table th:first-child{
+        width: 25%;
+    }
+    .company-relationship table tr td {
+        padding: 5vw 0 5vw 2vw;
+        line-height: 2;
+        font-size: 3.533vw;
+    }
+    .company-relationship .awards-list{
+        max-width: 80vw;
+        margin-bottom: 22vw;
+    }
+    .company-relationship .awards-list li span {
+        font-size: 3.33333vw;
+    }
+    .company-relationship .awards-list li span:first-child {
+        padding-right: 1vw;
+        left: 0;
+    }
+    .company-relationship .awards-list li span:last-child {
+        padding-left: 1vw;
+        right: 0;
+    }
+
+    .construction-result .container {
+        padding: 0;
+    }
+    /* End About */
+
+    /* Vision */
+    .page-vision .section-tt1 p {
+        font-size: 10vw;
+        margin-bottom: 1vw;
+    }
+
+    .page-vision .section-tt1 h2 {
+        font-size: 5vw;
+        padding-bottom: 2vw;
+    }
+
+    .page-vision .section-tt1:after {
+        width: 33vw;
+        height: 5vw;
+        margin-top: 2vw;
+    }
+    .vision-message-01{
+        background: url(../images/gray-stripped-pattern-sp@2x.png) no-repeat center top 97vw;
+        background-size: 100% auto;
+    }
+    .vision-message-01 .section-heading h2 span,
+    .person-image .section-heading h2 span {
+        font-size: 5.1333vw;
+        padding: 2vw 4.6vw;
+        margin-left: 0;
+        font-weight: 600;
+    }
+
+    .vision-message-01 .section-heading h2,
+    .person-image .section-heading h2 {
+        padding-left: 18vw;
+        margin: 7vw 0 8vw 0;
+    }
+
+    .vision-message-01 .section-heading h2:before,
+    .person-image .section-heading h2:before {
+        position: absolute;
+        content: '';
+        width: 17vw;
+        height: 1px;
+        left: 4vw;
+        top: 50%;
+    }
+
+    .person-image img {
+        width: 100%;
+    }
+
+    /* End Vision */
+
+    /* Business */
+    .page-business .section-tt1 h2 {
+        font-size: 5vw;
+        padding: 12vw 0 1vw 0;
+    }
+
+    .page-business .section-tt1 p {
+        font-size: 10vw;
+    }
+
+    .page-business .section-tt1:after {
+        width: 35vw;
+        height: 5vw;
+        margin-top: 2vw;
+    }
+
+    .page-business {
+        background: url(../images/head-bnr-business-sp@2x.jpg) no-repeat center center;
+        background-size: cover;
+        padding: 1vw 0 20vw 0;
+        margin-top: 60px;
+    }
+
+    .about-business .txt-basic {
+        font-size: 3.6vw;
+        margin: 30px 0 50px 0;
+        position: relative;
+        z-index: 2;
+    }
+
+    /* End Business */
+
+    /* Interview */
+
+    .page-interview {
+        background: url(../images/head-bnr-interview-sp@2x.jpg) no-repeat center center;
+        background-size: cover;
+        width: 100%;
+        padding: 16vw 0;
+        margin-top: 60px;
+    }
+
+    .page-interview .section-tt1 p {
+        font-size: 10vw;
+    }
+
+    .page-interview .section-tt1 h2 {
+        font-size: 5vw;
+        font-weight: bold;
+        padding: 2vw 0 1vw 0;
+    }
+
+    .page-interview .section-tt1:after {
+        width: 38vw;
+        height: 5vw;
+        bottom: -6vw;
+    }
+
+    .employee-interview .section-heading h2:before {
+        position: absolute;
+        content: '';
+        width: 20vw;
+        height: 1px;
+        background: #000;
+        left: 4vw;
+        top: 50%;
+        -webkit-transform: translateY(-50%);
+        -ms-transform: translateY(-50%);
+        transform: translateY(-50%);
+    }
+
+    .block-title h3 {
+        display: inline-block;
+        font-size: 6.4vw;
+        font-weight: 700;
+        line-height: 1.5;
+        color: #333;
+    }
+
+    .block-content figure img {
+        width: 100%;
+    }
+
+    .employee-interview-01 .desc,
+    .employee-interview-02 .desc,
+    .employee-interview-03 .desc,
+    .employee-interview-04 .desc {
+        margin-left: 0;
+        margin-right: 0;
+        font-size: 4vw;
+        width: 100%;
+    }
+
+    .employee-interview:nth-of-type(odd) {
+        background: url(../images/yellow-trapezoid-pattern-left.png) #fff no-repeat left bottom;
+        background-size: 80vw 83.33333vw;
+    }
+
+    .employee-interview:nth-of-type(even) {
+        background: url(../images/yellow-trapezoid-pattern.png) #fff no-repeat right bottom;
+        background-size: 80vw 83.33333vw;
+    }
+
+    .employee-interview .block-content .desc {
+        width: 100%;
+        padding: 0 5.33333vw 8vw;
+    }
+
+    .block-content {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .block-content figure {
+        width: 100%;
+    }
+
+    .block-content figure figcaption {
+        margin-top: 0;
+        background: #FFF;
+        padding: 20px 20px;
+        box-shadow: 0 0.8vw 1.6vw rgb(197, 182, 182);
+        margin-bottom: 30px;
+    }
+
+    .block-content .title {
+        display: flex;
+        justify-content: space-between;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center;
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+        padding: 0;
+    }
+
+    .block-content .title .post {
+        color: #000;
+        margin-right: 0;
+        font-size: 20px;
+        font-size: 6vw;
+        width: 100%;
+    }
+
+    .block-content .title .name {
+        display: flex;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center;
+        -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+        justify-content: space-between;
+        width: 100%;
+    }
+
+    .block-content .title .name .name-en {
+        color: #000;
+        margin-right: 0;
+        font-size: 15px;
+        font-size: 4vw;
+    }
+
+    .block-content .title .name .name-jp {
+        color: #000;
+        font-size: 15px;
+        font-size: 6vw;
+        font-weight: bold;
+    }
+
+    .block-content .content dt {
+        width: 100%;
+        float: none;
+    }
+
+    .block-content .content dd {
+        width: 100%;
+        float: none;
+    }
+
+    .block-content figcaption .content {
+        display: flex;
+        padding: 0;
+        font-size: 0.9rem;
+        margin-top: 25px;
+    }
+    .about-business{
+        background: url(../images/gray-stripped-pattern-sp@2x.png) #fff repeat-y center top 24vw;
+        background-size: 100% auto;
+    }
+    .about-business:before{
+        width: 36vw;
+        height: 39vw;
+        left: 0;
+        top: 0vw;
+        background: #fff;
+        z-index: 1;
+        
+    }
+    .about-business .section-heading {
+        margin: 30px 0 40px 0;
+        padding-left: 0;
+    }
+
+    .about-business-list li {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        padding-bottom: 50px;
+        width: 100%;
+        margin-bottom: 0;
+        border-bottom: none;
+        
+    }
+
+    .about-business-list li .desc .title {
+        padding-top: 24vw;
+        padding-bottom: 9.33333vw;
+        padding-left: 5vw;
+        font-size: 6.93333vw;
+        line-height: 1.3;
+        font-weight: 500;
+    }
+
+    .about-business-list li .desc .title:before {
+        font-size: 21vw;
+        top: 2vw;
+        left: 1vw;
+    }
+
+    .about-business-list li .desc .title:after {
+        width: 17.46667vw;
+        height: 28.66667vw;
+        left: 5.73333vw;
+        top: 11.66667vw;
+    }
+
+    .about-business-list li .business-img {
+        width: 100%;
+    }
+
+    .about-business-list li .desc {
+        width: 100%;
+        text-align: left;
+    }
+
+    .about-business-list li .desc .txt-basic {
+        text-align: justify;
+        margin: 10px 0 0 0;
+        line-height: 2;
+        font-size: 3.69333vw;
+        padding: 0 0 0 3vw;
+    }
+
+    /* End Interview */
+
+    /* Recruit */
+    .page-recruit {
+        background: url(../images/head-bnr-recruit-sp@2x.jpg) no-repeat center center;
+        background-size: cover;
+        padding: 6vw 0 14vw 0;
+        margin-top: 60px;
+    }
+
+    .page-recruit .section-tt1 h2 {
+        font-size: 5vw;
+        font-weight: bold;
+        padding: 8vw 0 1vw 0;
+    }
+
+    .page-recruit .section-tt1 p {
+        font-size: 10vw;
+    }
+
+    .page-recruit .section-tt1:after {
+        width: 34vw;
+        height: 5vw;
+    }
+
+    .recruit-articles {
+        padding: 8vw 0 8vw 0;
+    }
+    section.recruit-articles .container {
+        padding: 0;
+    }
+    .recruit-articles .list-tag {
+        justify-content: flex-start;
+        margin-bottom: 8vw;
+        margin-left: 4vw;
+        
+    }
+    .recruit-articles .list-tag li .fa-tag {
+        font-size: 3.7vw;
+    }
+    .recruit-articles .list-tag li {
+        border: 1px solid #bababa;
+        padding: 2vw 3.7333vw;
+        margin-bottom: 10px;
+        margin-right: 4vw;
+        font-size: 4vw;
+    }
+
+    .recruit-articles article h3 {
+        color: #FFF100;
+        background: #333;
+        font-weight: 600;
+        font-size: 5.7333vw;
+        padding: 3vw 0 3vw 7vw;
+        margin-bottom: 30px;
+    }
+
+    .recruit-articles article p {
+        padding: 3vw 7vw 4vw 7vw;
+        font-size: 4vw;
+        margin-bottom: 20px;
+    }
+
+    .recruit-articles article ul li {
+        margin-bottom: 4vw;
+        padding-left: 7vw;
+        padding-right: 7vw;
+        line-height: 1.5;
+        font-size: 4vw;
+    }
+
+    .box-recruit .btn-recruit {
+        padding: 5.833vw 20vw;
+        font-size: 3.1333vw;
+    }
+
+    .btn-recruit .fa-telegram-plane {
+        font-size: 8vw;
+    }
+
+    .btn-recruit .fa-arrow-right {
+        right: 1%;
+        font-size: 8vw;
+    }
+
+    .recruit-article .section-heading h2 span {
+        display: inline-block;
+        background-color: #FFF100;
+        padding: 2vw 5vw;
+        font-weight: 500;
+        color: #333;
+        font-size: 5vw;
+        text-align: center;
+    }
+
+    .recruit-article .section-heading {
+        text-align: center;
+        margin: 3vw 0 4vw 1vw;
+    }
+
+    .recruit-img {
+        max-width: none;
+        width: 100%;
+        margin: auto;
+        padding: 0 5.3vw;
+    }
+
+    .recruit-article-text {
+        margin: 3vw 0 0 0;
+    }
+
+    .recruit-article-text h2 {
+        font-size: 5vw;
+        margin-bottom: 3vw;
+    }
+
+    .recruit-article-text span {
+        background: #333;
+        color: #fff;
+        padding: 1vw 4vw;
+        font-size: 4vw;
+        margin-right: 3vw;
+    }
+
+    /* End Recruit */
+
+    /* Contact */
+    .page-contact{
+        margin-top: 60px;
+    }
+    .section-contact-form .section-tt1 button {
+        padding: 2.8vw 3.3vw;
+        font-size: 4.9vw;
+    }
+
+    .section-contact-form .section-tt1 a {
+        font-size: 10.2333vw;
+    }
+
+    .section-contact-form .section-tt1 p {
+        font-size: 3.8vw;
+    }
+
+    .section-contact-form {
+        padding: 35px 0;
+    }
+
+    .section-contact-form .message {
+        text-align: left;
+        font-size: 3.7333vw;
+        margin-top: 30px;
+        line-height: 1.8;
+        color: #292929;
+    }
+
+    .contact-form-body {
+        background: #fafafa;
+        margin-top: 50px;
+        padding: 10vw 0 8vw 0;
+    }
+
+    .form-row{
+        border-bottom: none;
+        padding: 0;
+    }
+    .form-row .form-label {
+        width: 100%;
+        padding: 0;
+    }
+    .form-row:first-child .form-label{
+        padding-bottom: 10px;
+    }
+    .form-row .form-label .label-txtarea {
+        margin-top: 15vw;
+    }
+    .form-row .form-label .notice {
+        font-size: 3.83333vw;
+        transform: none;
+        margin-left: 0;
+        margin-bottom: 1vw;
+        width: 100%;
+        margin-top: 1vw;
+    }
+    .contact-form-body .form-row .form-label label {
+        font-size: 4.3333vw;
+        width: 70%;
+        margin-top: 15vw;
+        margin-bottom: 0;
+        color: #000;
+    }
+
+    .form-row .form-label .tag {
+        font-size: 3.7333vw;
+        width: 16vw;
+        height: 9vw;
+        margin-top: 11vw;
+        margin-bottom: 2.5vw;
+    }
+
+    .form-row .form-content {
+        width: 100%;
+        margin-top: 3vw;
+    }
+
+    .form-content select,
+    .form-content option {
+        width: 100%;
+        font-size: 3.7333vw;
+    }
+
+    .form-content .txt-md,
+    .form-content .txt-lg,
+    .form-content .txtarea {
+        width: 100%;
+        font-size: 4.7333vw;
+        margin-top: 2vh;
+    }
+
+
+    .btn-submit-contact {
+        padding: 6vw 32.5vw;
+        font-size: 3.2vw;
+    }
+
+    .btn-submit-contact .fa-arrow-right {
+        right: 1%;
+        font-size: 8vw;
+    }
+
+    /* End Contact */
+
+
+}
+
+@media screen and (max-width:480px){
+    .about-business-list li .desc .txt-basic {
+        text-align: justify;
+        margin: 10px 0 0 0;
+        line-height: 2;
+        font-size: 3.59333vw;
+        padding: 0 0 0 1vw;
+    }
+}

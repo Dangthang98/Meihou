@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 962 128.32"
+                    style="">
+                    <defs>
+                        <style>
+                            .cls-1 {
+                                fill: none;
+                                stroke: #fff200;
+                                stroke-miterlimit: 10;
+                                stroke-width: 4px;
+                            }
+                        </style>
+                    </defs>
+                    <g id="Layer_2" data-name="Layer 2">
+                        <path class="cls-1 KTqSsuql_0" d="M0,402.67H60L63,396l4.33,17,7-25.67,4.84,22.17,2.66-6.67h40.84L128,374.67l9.83,54.83,7.34-38.83,5,21.5L158,362.83l8.5,73.67,7.67-46,2.33,11.17,21.33.5,2.84,13.5,4.83-28.84,8.33,62.5,6.5-71.5,2.5,14.17,5.34-37,7.5,69.83,2.83-22.66h24L265.83,382,273,428.5l6-59.83,6.67,53.16,5.16-39.66,5.34,28.5,5-17.34,3.66,8.84h19.5l3.67,11.5,6-27.34,6.5,21.84,3-6h44.17v-8c-5.72-6-9.08-11.83-10.17-18.34C377,360.52,385.06,352.55,400,351c14.82.8,22.28,8.73,22.17,23.67-1.1,6.57-4.82,12.61-9.34,18.5v21.66l-10.5-.16L402,384.83l8.17-11.16c.78-2.28.84-4.32-.17-6-3.41-4.48-6.79-4.41-10.17-.84-3.4-3-6.92-3.47-10.66.5a6,6,0,0,0,.16,5.34l5.34,6.16"
+                            transform="translate(175 -338.97)"></path>
+                        <path class="cls-1 KTqSsuql_1" d="M562.5,63.91L562.5,75.41L575.38,75.41"></path>
+                        <path class="cls-1 KTqSsuql_2" d="M563.75,80.65L586,80.65"></path>
+                        <path class="cls-1 KTqSsuql_3" d="M567.38,85.65L582.25,85.65"></path>
+                        <path class="cls-1 KTqSsuql_4" d="M550.38,12.03L555.5,16.15"></path>
+                        <path class="cls-1 KTqSsuql_5" d="M561.5,4.15L564.75,10.15"></path>
+                        <path class="cls-1 KTqSsuql_6" d="M574.88,1.03L574.88,7.9"></path>
+                        <path class="cls-1 KTqSsuql_7" d="M588.5,4.47L585.13,10.15"></path>
+                        <path class="cls-1 KTqSsuql_8" d="M599.75,11.15L594.75,16.15"></path>
+                        <path class="cls-1 KTqSsuql_9" d="M587.83,63.28L626.88,63.28L629.88,72.53L633,56.16L639,87.53L643.88,42.28L649.63,77.03L653.13,58.53L658.88,99.28L664.13,63.28L724,63.16L725.88,50.28L732.5,79.53L735.88,54.78L738.88,63.78L787,63.28"></path>
+                    </g>
+                    <style data-made-with="vivus-instant">
+                        .KTqSsuql_0 {
+                            stroke-dasharray: 1535 1537;
+                            stroke-dashoffset: 1536;
+                            animation: KTqSsuql_draw 3650ms ease-in-out 0ms forwards;
+                        }
+
+                        .KTqSsuql_1 {
+                            stroke-dasharray: 25 27;
+                            stroke-dashoffset: 26;
+                            animation: KTqSsuql_draw 61ms ease-in-out 3650ms forwards;
+                        }
+
+                        .KTqSsuql_2 {
+                            stroke-dasharray: 23 25;
+                            stroke-dashoffset: 24;
+                            animation: KTqSsuql_draw 57ms ease-in-out 3711ms forwards;
+                        }
+
+                        .KTqSsuql_3 {
+                            stroke-dasharray: 15 17;
+                            stroke-dashoffset: 16;
+                            animation: KTqSsuql_draw 38ms ease-in-out 3769ms forwards;
+                        }
+
+                        .KTqSsuql_4 {
+                            stroke-dasharray: 7 9;
+                            stroke-dashoffset: 8;
+                            animation: KTqSsuql_draw 19ms ease-in-out 3807ms forwards;
+                        }
+
+                        .KTqSsuql_5 {
+                            stroke-dasharray: 7 9;
+                            stroke-dashoffset: 8;
+                            animation: KTqSsuql_draw 19ms ease-in-out 3826ms forwards;
+                        }
+
+                        .KTqSsuql_6 {
+                            stroke-dasharray: 7 9;
+                            stroke-dashoffset: 8;
+                            animation: KTqSsuql_draw 19ms ease-in-out 3845ms forwards;
+                        }
+
+                        .KTqSsuql_7 {
+                            stroke-dasharray: 7 9;
+                            stroke-dashoffset: 8;
+                            animation: KTqSsuql_draw 19ms ease-in-out 3864ms forwards;
+                        }
+
+                        .KTqSsuql_8 {
+                            stroke-dasharray: 8 10;
+                            stroke-dashoffset: 9;
+                            animation: KTqSsuql_draw 21ms ease-in-out 3883ms forwards;
+                        }
+
+                        .KTqSsuql_9 {
+                            stroke-dasharray: 460 462;
+                            stroke-dashoffset: 461;
+                            animation: KTqSsuql_draw 1095ms ease-in-out 3904ms forwards;
+                        }
+
+                        @keyframes KTqSsuql_draw {
+                            100% {
+                                stroke-dashoffset: 0;
+                            }
+                        }
+
+                        @keyframes KTqSsuql_fade {
+                            0% {
+                                stroke-opacity: 1;
+                            }
+
+                            95.65217391304348% {
+                                stroke-opacity: 1;
+                            }
+
+                            100% {
+                                stroke-opacity: 0;
+                            }
+                        }
+                    </style>
+                </svg>
